@@ -1,5 +1,5 @@
 ![React Shopping-Cart App](./banner.jpg)
-
+![React Shopping-Cart App](./banner1.jpg)
 
 ## Project Description
 A Shopping Cart Project in React JS. Context API with useReducer Hook for State Management. Hooks like createContext and useContext. Add to cart functionality along with sorting and filtering products by search also.
